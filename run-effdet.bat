@@ -1,0 +1,1 @@
+python new.py --model_dir ./ --labels ./labels.txt                                   
